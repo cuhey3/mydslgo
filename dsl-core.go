@@ -1,4 +1,4 @@
-package mydsl
+package mydsl-go
 
 import (
 	"encoding/json"
